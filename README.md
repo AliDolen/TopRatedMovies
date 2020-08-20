@@ -8,3 +8,5 @@ The app shows the most rated movies and gives information about each movie.
 
 * Movie data and photos  taken from [The Movie DB](https://developers.themoviedb.org/3/movies/get-top-rated-movies).
 
+
+
