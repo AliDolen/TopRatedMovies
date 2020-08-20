@@ -14,5 +14,5 @@ The app shows the most rated movies and gives information about each movie.
 
 ## Technologies
 
--  **Alamofire**
--  **SDWebImageSwiftUI**
+-  **Alamofire 5.0**
+-  **SDWebImageSwiftUI v1.0.0**
