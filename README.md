@@ -10,4 +10,4 @@ The app shows the most rated movies and gives information about each movie.
 
 ## Demo
 
-![Animated GIF-source](https://user-images.githubusercontent.com/40203322/90735919-4236fc80-e2d6-11ea-947e-b35f88ee7b49.gif)
+
