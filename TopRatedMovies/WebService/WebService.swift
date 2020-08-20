@@ -24,7 +24,7 @@ class observer : ObservableObject  {
                 }
                 
                 }
-                } catch  {
+                } catch{
                     
                     print("ERROR!")
                     
