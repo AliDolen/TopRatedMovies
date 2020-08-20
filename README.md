@@ -1,4 +1,4 @@
-# Top Rated Movie App With SwiftUI
+# Introduction
 
 A Top Movie Rated application develop with SwiftUI
 
