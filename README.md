@@ -16,3 +16,7 @@ The app shows the most rated movies and gives information about each movie.
 
 -  **Alamofire 5.0**
 -  **SDWebImageSwiftUI v1.0.0**
+
+## Author
+
+**ALİ DÖLEN**
