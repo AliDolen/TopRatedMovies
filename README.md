@@ -1,3 +1,3 @@
 # Project Title
 
-A Top Movie Rated application build with SwiftUI
+A Top Movie Rated application develop with SwiftUI
